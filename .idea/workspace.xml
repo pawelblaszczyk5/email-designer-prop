@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b07bdc3-a196-48e2-be03-d4eee6cc667a" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/App.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/jsx.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/lib/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/lib/EverywhereExceptOutlook.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/lib/OutlookOnly.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/lib/Preview.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-solid/vite.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/src/App.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/src/assets/svelte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/src/lib/Button.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/src/lib/EverywhereExceptOutlook.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/src/lib/OnlyInOutlook.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/src/vite-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/svelte.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email-svelte/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -94,8 +66,16 @@
       <workItem from="1635859614080" duration="4343000" />
       <workItem from="1635920504282" duration="16312000" />
       <workItem from="1636358273558" duration="10670000" />
-      <workItem from="1636439791679" duration="18959000" />
+      <workItem from="1636439791679" duration="19242000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1636466014736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636466014736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
